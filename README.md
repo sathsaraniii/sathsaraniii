@@ -12,13 +12,13 @@
 
 ## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python, java,js,html,css,react,nodejs,express,MongoDB, mysql" />
+<img src="https://skillicons.dev/icons?i=python, java, js,html,css,react,nodejs, express,  mongoDB, mysql" />
 
 ---
 
 ## 📈 GitHub Stats
 
-![Sathsarani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathsaraniamarasinghe&show_icons=true&theme=tokyonight)
+![Sathsarani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathsaraniii&show_icons=true&theme=tokyonight)
 
 ---
 
