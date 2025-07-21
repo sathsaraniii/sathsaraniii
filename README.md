@@ -1,24 +1,18 @@
 <h1 align="center">Hi there 👋, I'm Sathsarani Amarasinghe</h1>
 
-<p align="center">
-  💻 Aspiring Full Stack Developer • 🎯 Focused on MERN Stack • 🌱 Currently diving deep into Backend
-</p>
-
 ---
 
 ## 💡 About Me
 
-- 🎓 Data Science Engineering student
-- 🌐 Exploring full-stack web development (React, Node, Express, MongoDB)
+- 🎓 Data Science Engineering Undergraduate
+- 🌐 Exploring full-stack web development 
 - ⚙️ Enjoy solving real-world problems through code
-- ✍️ Writing clean, efficient, and scalable code
-- 🔭 Currently building: **Task Manager App**
 
 ---
 
 ## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python, java,js,html,css,react,nodejs,express,MongoDB, mysql" />
 
 ---
 
