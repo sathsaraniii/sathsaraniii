@@ -12,17 +12,13 @@
 
 ## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python, java, js,html,css,react,nodejs, express,  mongoDB, mysql" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs, express,  mongoDB" />
 
 ---
 
-## 📈 GitHub Stats
 
-![Sathsarani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathsaraniii&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sathsaraniamarasinghe)
-- 📬 [Email]  (sathsarani.22@cse.mrt.ac.lk)
+- 📬 Email: sathsarani.22@cse.mrt.ac.lk
