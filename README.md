@@ -2,7 +2,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 - 🎓 Data Science Engineering Undergraduate
 - 🌐 Exploring full-stack web development 
@@ -10,14 +10,14 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,express,mysql,mongodb" />
 
 ---
 
 
-## 📫 Connect with Me
+## Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sathsaraniamarasinghe)
 - 📬 Email: sathsarani.22@cse.mrt.ac.lk
