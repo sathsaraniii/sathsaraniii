@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sathsarani Amarasinghe</h1>
 
----
 
 ## About Me
 
@@ -8,13 +7,11 @@
 - 🌐 Exploring full-stack web development 
 - ⚙️ Enjoy solving real-world problems through code
 
----
 
 ## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,express,mysql,mongodb" />
 
----
 
 
 ## Connect with Me
