@@ -2,9 +2,9 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a third-year undergraduate at the University of Moratuwa, specializing in **Data Science and Engineering** under the Department of Computer Science and Engineering.
+- I'm a third-year undergraduate at the University of Moratuwa, specializing in **Data Science and Engineering** under the Department of Computer Science and Engineering.
 
-💻 I'm passionate about **web development**, **machine learning**, and **building intelligent full-stack applications**.
+- I'm passionate about **web development**, **machine learning**, and **building intelligent full-stack applications**.
 
 ## 🚀 Tech Stack & Tools
 
