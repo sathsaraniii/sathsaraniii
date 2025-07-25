@@ -10,7 +10,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nextjs,express,mysql,mongodb&theme=light" />
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nextjs,nodejs,express,mysql,mongodb,vhdl,arduino,git,github,vscode,npm,vite&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nextjs,nodejs,express,mysql,mongodb,arduino&theme=dark" />
 
 - 🌐 Frontend: React.js, HTML5, CSS3, JavaScript (ES6+)
 - 🧠 Backend: Node.js, Express.js
