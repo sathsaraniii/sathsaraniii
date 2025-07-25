@@ -21,5 +21,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathsarani-amarasinghe-ab1254319)
 [![Email](https://img.shields.io/badge/Email-sathsarani.22@cse.mrt.ac.lk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathsarani.22@cse.mrt.ac.lk)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathsaraniii)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathsaraniii)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competitor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sathsaranii)
