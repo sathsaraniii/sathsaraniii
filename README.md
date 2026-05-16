@@ -9,12 +9,12 @@
 ## 🚀 Tech Stack & Tools
 
 - **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js, Go Lang, Python
 - **Databases**: MySQL, MongoDB
 - **Data Science & ML**: Python (Pandas, NumPy, scikit-learn, Matplotlib), Kaggle
-- **Tools**: Git, GitHub, VS Code, Vite, Arduino (IoT)
+- **Tools**: Git, GitHub, VS Code, Arduino (IoT)
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,nextjs,express,mysql,mongodb,arduino&theme=dark" />
+<!-- <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,nextjs,express,mysql,mongodb,arduino&theme=dark" /> -->
 
 
 ## 🌐 Connect with Me
