@@ -2,19 +2,18 @@
 
 ## 👩‍💻 About Me
 
-- I'm a third-year undergraduate at the University of Moratuwa, specializing in **Data Science and Engineering** under the Department of Computer Science and Engineering.
+- I'm a final undergraduate at the University of Moratuwa, specializing in **Data Science and Engineering** under the Department of Computer Science and Engineering.
 
 - I'm passionate about **web development**, **machine learning**, and **building intelligent full-stack applications**.
 
 ## 🚀 Tech Stack & Tools
 
-- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend**: Node.js, Express.js, Go Lang, Python
-- **Databases**: MySQL, MongoDB
-- **Data Science & ML**: Python (Pandas, NumPy, scikit-learn, Matplotlib), Kaggle
-- **Tools**: Git, GitHub, VS Code, Arduino (IoT)
-
-<!-- <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,nextjs,express,mysql,mongodb,arduino&theme=dark" /> -->
+- **Programming Languages:**: Python, C++, Go, JavaScript, Java
+- **Web & Backend Technologies**: React.js, Node.js, Express.js, FastAPI, FastMCP, Spring Boot, HTML, CSS,
+Tailwind CSS
+- **Database Systems**: MySQL, MongoDB, PostgreSQL, Supabase, OpenSearch
+- **Data Science & ML**: PPandas, NumPy, Matplotlib, Seaborn, scikit-learn, XGBoost, TensorFlow, Keras, SHAP, OpenCV, YOLOv8, LangChain, Pinecone, CrewAI
+- **DevOps & Infrastructure**: Docker, Kubernetes, Helm, Git, GitHub, OpenTelemetry
 
 
 ## 🌐 Connect with Me
